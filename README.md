@@ -2,7 +2,7 @@ Biljetten en Muntenteller
 ========
 
 Deze opdracht is een uitbreiding van de Muntenteller van de vorige opdracht. Nu worden ook biljetten toegevoed. \
-Het gemiddelde wordt bijgehouden evenals het aantal ingevoerde bedragen en de het totale bedrag van alle tellingen.\
+Het gemiddelde wordt bijgehouden evenals het aantal ingevoerde bedragen en de het totale bedrag van alle tellingen.
 
 Opdracht
 ------
